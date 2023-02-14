@@ -1,5 +1,4 @@
-# AlphaZero_CS_Challenge
-Research Reproducibility of
+# Research Reproducibility | CS_Challenge
 #Segmentation Convolutional Neural Networks for Automatic Crater Detection on Mars
 
 You will find files containing
